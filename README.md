@@ -10,7 +10,7 @@ HEVC Video Extensions
 ----------------------
     ms-windows-store://pdp/?ProductId=9n4wgh0z6vhq
 
-Windows (x86, 32-bit), MSI Installer
+MySQL Installer
 -------------------------------------
     https://dev.mysql.com/downloads/installer/
 
