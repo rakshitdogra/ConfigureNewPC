@@ -1,7 +1,11 @@
-# ConfigureNewPC
-Configure Commands and Links
-
-
+<p align="center">
+  <a href="https://github.com/rakshitdogra/ConfigureNewPC"><img src="icon.png" alt="Logo"></img></a>
+  </br>
+  <sub>Logo by <a href="https://www.instagram.com/rakshit.designs/">@rakshit.designs</a></sub>
+  </br>
+  <sub>CURATED WITH ❤️ BY Rakshit Dogra.</sub>
+</p>   
+   
 Visual Studio Code
 -------------------
     https://visualstudio.microsoft.com
